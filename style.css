@@ -2,3 +2,8 @@
 * {
     background-color: beige;
 }
+
+.index-img, img {
+    height: 250px;
+    width: auto;
+}
