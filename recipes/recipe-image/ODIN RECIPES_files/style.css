@@ -12,24 +12,11 @@
 
 }
 
-.list-name {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    font-style: italic;
-
-    display: flex;
-    justify-content: center;
-}
-
 .list1 {
     font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
     font-size: 18px;
 
     display: flex;
     justify-content: center;
-}
-
-h1 {
-    display: flex;
-    justify-content: center;
+    align-items: center;
 }

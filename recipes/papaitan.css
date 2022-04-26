@@ -3,7 +3,66 @@
     background-color: beige;
 }
 
-img {
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.papaitan-img {
     width: auto;
     height: 250px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    inline-size: 500px;
+    overflow-wrap: break-word;
+    text-align: justify;
+    
+    margin: 0 auto;
+}
+
+.ingredients {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+}
+
+.ing-list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.lamaw {
+    display: flex;
+    justify-content: center;
+}
+
+.steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center; 
+}
+
+.steps-list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: center;
 }
