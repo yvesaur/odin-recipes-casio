@@ -3,7 +3,68 @@
     background-color: beige;
 }
 
-img {
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.sinigang-img {
     width: auto;
-    height: 250px;
+    height: 300px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.sinigang-description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    inline-size: 500px;
+    overflow-wrap: break-word;
+    text-align: justify;
+
+    margin: 0 auto;
+}
+
+.ingredients {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+}
+
+.ingredients-list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.steps {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+
+    display: flex;
+    justify-content: center;
+}
+
+.steps-list {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.index-link {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    
+    display: flex;
+    justify-content: center;
 }
